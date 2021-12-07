@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a junior Data Scientist and actually looking for my 1st position in Data Science.\
+If you want to talk about anything or just want to connect, you can add me on LinkedIn: https://www.linkedin.com/in/alexis-weller/ \
+
+
+
 <!--
 **Awle/Awle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
