@@ -3,7 +3,7 @@
 I am a junior Data Scientist and actually looking for my 1st position in Data Science.\
 If you want to talk about anything or just want to connect, you can add me on LinkedIn: https://www.linkedin.com/in/alexis-weller/ \
 
-![Alt-text](https://github.com/Awle/Awle/blob/main/LoopOrbit_ManimCE_v0.12.0.gif)
+<img src="https://github.com/Awle/Awle/blob/main/LoopOrbit_ManimCE_v0.12.0.gif" width="560" height="400" />
 
 <!--
 **Awle/Awle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
